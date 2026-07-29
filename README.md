@@ -1,3 +1,7 @@
+```
+git submodule add https://github.com/EloiStree/2026_07_29_gdp_morse_detector.git addons/2026_07_29_gdp_morse_detector
+```
+
 # 2026_07_29_gdp_morse_detector
 
 > **A Morse Detector example with one-, two-, and three-button input for learning Morse code and serving as a WebGL interface.**
